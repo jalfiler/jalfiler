@@ -17,3 +17,22 @@ R, SQL, Python, Azure, Git, Power BI (listed in terms of proficiency).
 
 
 ---
+
+<p align="center">
+<a href="https://discord.com/users/929157652368478238">
+    <img src="https://lanyard.cnrad.dev/api/929157652368478238?bg=2c2f33&idleMessage=Join%20my%20discord%20channel｡%20(๑>◡<๑)%20♡" alt="discord_profile:Jomaica#9098"/>
+</a>
+</p>
+
+
+
+<h2 align="center">My Statistics</h2>
+<p align="center">
+<a href="https://github.com/jalfiler">
+    <img width="75%" src="https://github-readme-stats.vercel.app/api?username=jalfiler&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/jalfiler">
+    <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalfiler&layout=compact&theme=tokyonight" />
+</a>
+</p>
+
