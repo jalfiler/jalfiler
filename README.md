@@ -24,6 +24,7 @@ R, SQL, Python, Azure, Git, Power BI (listed in terms of proficiency).
 ## 🔗 Links
 [![Resume](https://img.shields.io/badge/resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/jalfiler/jalfiler/blob/main/Resume.pdf)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajomaica)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22vtqo4ft2zm3lepsvzsndtki?si=9062b94fe7724bad)
 
 
 <p align="center">
