@@ -11,7 +11,7 @@ Finally, I’m looking forward to join a company where I’m interested in using
 R, SQL, Python, Azure, Git, Power BI (listed in terms of proficiency).
 
 ## 🔗 Links
-[![Resume](https://img.shields.io/badge/resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://ajomaica.github.io](https://github.com/jalfiler/jalfiler/blob/main/Resume.pdf))
+[![Resume](https://img.shields.io/badge/resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/jalfiler/jalfiler/blob/main/Resume.pdf)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajomaica)
 
 
