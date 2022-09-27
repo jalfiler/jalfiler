@@ -21,7 +21,7 @@ R, SQL, Python, Azure, Git, Power BI (listed in terms of proficiency).
 <h1 align="center">Hello there 👋</h1>
 <p align="center">
 <a href="https://github.com/jalfiler">
-<img align="center" src="https://komarev.com/ghpvc/?username=DevinOfficial&color=5865F2" />
+<img align="center" src="![](https://komarev.com/ghpvc/?jalfiler)" />
 </a>
 </p>
 <p align="center">I am Devin, Just an ordinary human from <strong>Indonesia</strong> who love <code>coding</code></p>
