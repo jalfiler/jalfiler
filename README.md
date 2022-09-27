@@ -38,9 +38,10 @@ R, SQL, Python, Azure, Git, Power BI (listed in terms of proficiency).
 <h2 align="center">My Statistics</h2>
 <p align="center">
 <a href="https://github.com/jalfiler">
-    <img width="75%" src="https://github-readme-stats.vercel.app/api?username=jalfiler&show_icons=true&theme=tokyonight" />
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jalfiler&show_icons=true&theme=tokyonight" />
 </a>
+
 <a href="https://github.com/jalfiler">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalfiler&layout=compact&theme=tokyonight" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalfiler&layout=compact&theme=tokyonight" />
 </a>
 </p>
