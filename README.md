@@ -29,7 +29,7 @@ R, SQL, Python, Azure, Git, Power BI (listed in terms of proficiency).
 
 <p align="center">
 <a href="https://discord.com/users/929157652368478238">
-    <img src="https://lanyard.cnrad.dev/api/929157652368478238?bg=2c2f33&idleMessage=Join%20my%20discord%20channel｡%20(๑>◡<๑)%20♡" alt="discord_profile:Jomaica#9098"/>
+    <img src="https://lanyard.cnrad.dev/api/929157652368478238?bg=2c2f33&idleMessage=Feel%20free%20to%20connect｡%20(๑>◡<๑)%20♡" alt="discord_profile:Jomaica#9098"/>
 </a>
 </p>
 
