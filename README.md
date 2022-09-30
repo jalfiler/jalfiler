@@ -9,7 +9,7 @@ Finally, I’m looking forward to join a company where I’m interested in using
 
 
 ## Skills 🛠 
-R, SQL, Python, HTML5, CSS3, Azure, Git, Power BI (listed in terms of proficiency).
+R, SQL, Python, HTML5, CSS3, Sass, Azure, Git, Power BI (listed in terms of proficiency).
 
 
 
