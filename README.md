@@ -3,7 +3,7 @@
 
 
 ## Skills 🛠 
-R, SQL, Python, Azure, Git, Power BI (listed in terms of proficiency).
+Python, SQL, Azure, Git, R, Power BI (listed in terms of proficiency).
 
 
 
